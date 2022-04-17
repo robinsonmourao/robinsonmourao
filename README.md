@@ -17,16 +17,11 @@
 <div style="display: inline_block" align="center"><br>
   <h4>Já programei</h4>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-<div style="display: inline_block" align="center"><br>
-  <h2>Programo</h2>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
-
 <div style="display: inline_block" align="center"><br>
-  <h4>Aprendendo</h4>
+  <h3>Aprendendo</h3>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
   
