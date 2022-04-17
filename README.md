@@ -14,13 +14,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsonmourao&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <h4>Já programei</h4>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div style="display: inline_block"><align="center"><br>
-  <h4>Programo</h4>
+<div style="display: inline_block" align="center"><br>
+  <h2>Programo</h2>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
