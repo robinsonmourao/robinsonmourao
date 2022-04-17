@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block", alig="center"><br>
   <h4>Programo</h4>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
