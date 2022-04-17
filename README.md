@@ -25,7 +25,7 @@
 </div>
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <h4>Aprendendo</h4>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
