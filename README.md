@@ -4,7 +4,6 @@
 
 - Curso Licenciatura em Ciência da Computação;
 - Procuro oportunidades de imersão em programação para iniciar minha carreira;
-- Estou procurando projetos em programação voluntários ou remunerados;
 - Tenho inglês bom, muito útil para linguagens de programação;
 - Contato: bob.info.guaratiba@gmail.com;
 
@@ -15,13 +14,13 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <h4>Já programei</h4>
+  <h3>Já programei</h3>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <h3>Aprendendo</h3>
+  <h2>Aprendendo</h2>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
   
