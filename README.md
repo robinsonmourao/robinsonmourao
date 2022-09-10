@@ -1,10 +1,8 @@
 GITHUB ATIVADO EM MARÇO DE 2022(03/22)
 
-
-
-- Curso Licenciatura em Ciência da Computação;
-- Procuro oportunidades de imersão em programação não só para agregar a instituição mas tambem para iniciar minha carreira;
-- Tenho inglês bom, muito útil para linguagens de programação;
+- Cursando Licenciatura em Ciência da Computação;
+- Procuro oportunidades de estágio na área de programação;
+- Inglês fluente;
 
 <div align="center">
   <a href="https://github.com/robinsonmourao">
@@ -15,14 +13,15 @@ GITHUB ATIVADO EM MARÇO DE 2022(03/22)
 <h2></h2>
   
 <div align="center">
-  <h3>Já programei</h3>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h3>FullStack Foco em Java</h3>
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-</div>
-  
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+</div> 
+
 <div align="center">
   <h3>Aprendendo</h3>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div>
 
 <h2></h2>
