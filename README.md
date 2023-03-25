@@ -1,5 +1,3 @@
-GITHUB ATIVADO EM MARÇO DE 2022(03/22)
-
 - Cursando Licenciatura em Ciência da Computação;
 - Procuro oportunidades de estágio na área de programação;
 - Inglês fluente;
