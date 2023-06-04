@@ -17,7 +17,6 @@
 
 <div align="center">
   <h3>Aprendendo</h3>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">  
 </div>
 
