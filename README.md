@@ -1,5 +1,5 @@
-- Cursando Licenciatura em Ciência da Computação;
-- Procuro oportunidades de estágio na área de programação;
+- Graduado em Licenciatura em Ciência da Computação;
+- Procuro oportunidades como Analista de testes e Desenvolvedor BackEnd;
 - Inglês fluente;
 
 <div align="center">
