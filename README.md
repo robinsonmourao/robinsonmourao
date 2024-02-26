@@ -1,5 +1,5 @@
 - Graduado em Licenciatura em Ciência da Computação;
-- Procuro oportunidades como Analista de testes e Desenvolvedor BackEnd;
+- Analista de testes e Desenvolvedor Fullstack;
 - Inglês fluente;
 
 <div align="center">
