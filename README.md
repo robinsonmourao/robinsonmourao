@@ -11,14 +11,36 @@
 <h2></h2>
   
 <div align="center">
-  <h3>Backend</h3>
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <hr>
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg">  
+  <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
+  <img align="center" alt="GitLab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">  
+  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">  
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <br>
+  Backend
+  <hr>
+  <img align="center" alt="JUnit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg">  
+  <img align="center" alt="Postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">    
+  <br>
+  Testes
+  <hr>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">    
+  <br>
+  Frontend
+  <hr>
+  <img align="center" alt="XML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg">  
+  <img align="center" alt="REST-Assured" height="30" width="40" src="https://rest-assured.io/img/logo-transparent.png">  
+  <img align="center" alt="SonarLint" height="30" width="40" src="https://sonarsource.gallerycdn.vsassets.io/extensions/sonarsource/sonarlint-vscode/4.3.0/1706692866619/Microsoft.VisualStudio.Services.Icons.Default">  
+  <br>
+  Demais
 </div> 
 
-<div align="center">
-  <h3>Aprendendo</h3>
-  <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">  
-</div>
+
 
 <h2></h2>
   
