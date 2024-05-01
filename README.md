@@ -1,6 +1,6 @@
 - Graduado em Licenciatura em Ciência da Computação;
 - Analista de testes e Desenvolvedor Fullstack;
-- Inglês fluente;
+- Inglês B2;
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCBpKEuXZoi1qBtf4jLx1IuQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
