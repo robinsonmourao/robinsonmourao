@@ -1,3 +1,7 @@
+<div align='right'>
+  <a href = "https://gitlab.com/robinsonmourao"><img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"></a>
+</div>
+
 - Graduado em Licenciatura em Ciência da Computação;
 - Analista de testes e Desenvolvedor Fullstack;
 - Inglês B2;
