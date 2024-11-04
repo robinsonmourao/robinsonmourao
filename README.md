@@ -1,7 +1,3 @@
-<div align='right'>
-  <a href = "https://gitlab.com/robinsonmourao"><img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab"></a>
-</div>
-
 - Graduado em Licenciatura em Ciência da Computação;
 - Analista de testes e Desenvolvedor Fullstack;
 - Inglês B2;
@@ -32,9 +28,9 @@
   <br>
   Backend
   <hr>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">    
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <br>
   Frontend
   <hr>
@@ -42,7 +38,8 @@
   <img align="center" alt="Postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="REST-Assured" height="30" width="40" src="https://rest-assured.io/img/logo-transparent.png">     
-  <img align="center" alt="cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cucumber/cucumber-plain.svg">  
+  <img align="center" alt="cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="cypress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
   <br>
   Testes
   <hr>
